@@ -1,4 +1,5 @@
 # TalkTrends: A Dynamic Social Media Platform
+##[Hosted Link](https://tate-oyed.onrender.com)
 
 TalkTrends is a modern, interactive social media platform built with the MERN stack, enhanced by real-time features and a sleek UI. The platform offers users an engaging space to create, connect, and communicate with friends and communities. Whether you're posting updates, liking content, or chatting with others, TalkTrends ensures a seamless, responsive experience across devices.
 
