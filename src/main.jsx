@@ -13,8 +13,8 @@ import { SocketContextProvider } from "./context/SocketContext.jsx";
 const styles = {
 	global: (props) => ({
 		body: {
-			color: mode("gray.800", "whiteAlpha.900")(props),
-			bg: mode("gray.100", "#101010")(props),
+			color: mode("black", "white")(props), // Full black for light mode, full white for dark mode
+			bg: mode("white", "black")(props),   // Full white background for light mode, full black for dark mode
 		},
 	}),
 };
@@ -26,10 +26,11 @@ const config = {
 
 const colors = {
 	gray: {
-		light: "#616161",
-		dark: "#1e1e1e",
+		light: "#ffffff", // Full white
+		dark: "#000000",  // Full black
 	},
 };
+
 
 const theme = extendTheme({ config, styles, colors });
 
