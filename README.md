@@ -6,10 +6,10 @@ TalkTrends is a modern, interactive social media platform built with the MERN st
 ![TalkTrends Homepage](https://github.com/indu-shekhar-yadav/TalkTrends/blob/main2/Screenshot%20(11).png)
 *Homepage*
 
-![TalkTrends Profile Page]([https://github.com/username/repositoryname/blob/main/profile.png](https://github.com/indu-shekhar-yadav/TalkTrends/blob/main2/Screenshot%20(10).png)
+![TalkTrends Profile Page](https://github.com/indu-shekhar-yadav/TalkTrends/blob/main2/Screenshot%20(10).png)
 *Profile Page*
 
-![TalkTrends Chat Feature]([https://github.com/username/repositoryname/blob/main/chat.png](https://github.com/indu-shekhar-yadav/TalkTrends/blob/main2/Screenshot%20(15).png)
+![TalkTrends Chat Feature](https://github.com/indu-shekhar-yadav/TalkTrends/blob/main2/Screenshot%20(15).png)
 *Chat Feature*
 
 ### Key Features:
